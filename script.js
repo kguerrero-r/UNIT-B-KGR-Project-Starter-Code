@@ -22,7 +22,6 @@ optionOneScreen.style.display="block";
 
 
 
-
 broke.onclick=function(){
 optionOneScreen.style.display="none";
 optionOneEnd.style.display="block";
